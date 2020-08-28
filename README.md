@@ -8,3 +8,5 @@ including three outbreaks of the initial local, oversee import and the Xinfadi.
 This is a matplotlib exercise demo.
 
 The statistics were manually crawled considering the frequent change of report format.
+
+![COVID-19 Statistics of Beijing](COVID-19_Statistics_of_Beijing.png "COVID-19 Statistics of Beijing")
