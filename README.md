@@ -10,3 +10,6 @@ This is a matplotlib exercise demo.
 The statistics were manually crawled considering the frequent change of report format.
 
 ![COVID-19 Statistics of Beijing](COVID-19_Statistics_of_Beijing.png "COVID-19 Statistics of Beijing")
+
+Other interesting ariticles:
+https://mp.weixin.qq.com/s/VoBN3mBRgpSuxsNr4c3wnQ
